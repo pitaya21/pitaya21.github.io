@@ -1,0 +1,58 @@
+<html>
+<head>
+<link rel="shortcut icon" href="icono.ico"</favicon.ico"> 
+<title>Mongolia</title>
+</head>
+<body>
+<center>
+<table border=1>
+<Tr><Td colspan=3><h2>Mongolia</h2></Td></Tr>
+<Td>Escudo</Td>
+<Td>Bandera </Td>
+</Tr>
+</center>
+
+
+
+<Tr>
+<Td><img src="escudo.png"></Td>
+<Td><img src="descarga.png"></Td>
+</Tr>
+
+
+<Tr>
+<Td>IDIOMA:Mongol</Td>
+<Td>CAPITAL:Ulán Bator</Td>
+</Tr>
+
+
+<Tr>
+<Td>RELIGIÓN:Budismo</Td>
+<Td>MONEDA:Tugrik mongol</Td>
+</Tr>
+
+
+<table border=1>
+<Tr><Td colspan=3><h2>Sitios Turísticos</h2></Td></Tr>
+<Td>DESIERTO DE GOBI</Td>
+<Td>RESTOS ARQUEOLÓGICOS DE ARKHANGAI</Td>
+</Tr>
+
+
+
+<Tr>
+<Td><img src="desierto.jpg"></Td>
+<Td><img src="turismo.jpg" width=100% high=90%></Td>
+</Tr>
+
+
+<Tr>
+<Td>GENGHIS KHAN EQUESTRIAN STATUE</Td>
+<Td>MONASTERIO DE GANDANTEGCHINLIN</Td>
+</Tr>
+
+
+<Tr>
+<Td><img src="descarga (1).jpg"></Td>
+<Td><img src="descarga (2).jpg"></Td>
+</Tr>
